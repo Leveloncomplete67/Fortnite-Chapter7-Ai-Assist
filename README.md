@@ -120,3 +120,8 @@ The software relies exclusively on Windows Desktop API pixel capture. It does no
 
 `gameplay-analysis`, `fortnite-chapter7`, `yolov8`, `automation`, `automation-framework`, `real-time-processing`, `computer-vision`, `object-detection` , `fortnite-best`  , `fortnite-top`  , `fortnite-free-ai` , `fortnite-2026-hack` 
 
+
+
+<!-- update: A -->
+
+> 💡 *IT Quote:* "_Code is like humor. When you have to explain it, it’s bad. – Cory House_"
