@@ -122,6 +122,6 @@ The software relies exclusively on Windows Desktop API pixel capture. It does no
 
 
 
-<!-- update: A -->
+<!-- update: B -->
 
-> 💡 *IT Quote:* "_Experience is the name everyone gives to their mistakes. – Oscar Wilde_"
+> 💡 *IT Quote:* "_Simplicity is prerequisite for reliability. – Edsger W. Dijkstra_"
