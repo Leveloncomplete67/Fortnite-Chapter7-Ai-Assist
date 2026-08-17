@@ -122,6 +122,6 @@ The software relies exclusively on Windows Desktop API pixel capture. It does no
 
 
 
-<!-- update: A -->
+<!-- update: B -->
 
 > 💡 *IT Quote:* "_Simplicity is prerequisite for reliability. – Edsger W. Dijkstra_"
